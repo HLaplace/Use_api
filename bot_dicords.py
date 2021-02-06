@@ -63,4 +63,4 @@ async def info(ctx, city):
     await ctx.send(info)
     await ctx.send('Température de ' + str(int(temp)) + '°c')
 
-bot.run("ODAwMzA2NzI5MDk0MjE3Nzcw.YAQNuQ.xQOBkumVHioU0FhZMM_la4zUvu8")
+bot.run("ODAwMzA2NzI5MDk0MjE3Nzcw.YAQNuQ.xQOBkumVHioU0FhZMM_la4zUvu8") # a mettre à jour après la publication git token du bot
